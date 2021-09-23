@@ -1,0 +1,44 @@
+Ovo je file koji opisuje Main klasu!!!
+
+OPIS FILE-A
+Svaki file se sastoji od dvije stvari imena i ekstenzije na primjer: imenik.txt, config.xml, main.java
+Svi file-vi u javi imaju ekstenziju .java.
+Imena file-va se pisu malim slovima a ime treba da upucije na koriscenje file-a!
+
+OPSI KLASE MAIN
+U javi je sve objekta(klasa).
+Osnovna forma klase je: public class IME_KLASE {}
+Imena klasa se pisu velikim slovima a ime treba da upucuje na koriscenje klase!
+
+OPIS PAKETA om.examples
+Na pocetku file navodi se kom paketu klasa pripada.
+Paket za sada mozemo posmatrati kao skup u kome se nalase srodne klasa.
+Imena paketa se pisu mali slovima a ako se ime sastoji od vise rijeci onda se imena odvajaju tackom kao u nasem slucaju.
+
+OPIS METODE main
+Pod metodom se generalno moze posmatradi skup naredbi da se uradi neki zadatak
+Metoda main je pocvetna tacka svakog programa
+Mozemo imati samo jednu metodu main u programu
+Imena metoda se pisu malim slovim a ime treba da upucije na koriscenje metoda!
+Opsta forma metoda je: POVRATNI_TIP IME_METODE(tip 1argument1, tip2 argument2,..){naredba1;naredb2; naredbn;}
+
+NAREDBA
+Pod naredbom se podrazumjeva svaka linija kod u formi IZRAZ_NAREDBE;
+Svaka naredba se zavrsava sa ;
+
+OPERATOR SEKVENCE {}
+Ovo je operator koji grupise naredbe u neku cjelinu
+Svaka klasa pocinje i zavrsava sa {}
+Svaka metoda pocinje i zavrsava sa {}
+
+OPIS naredbe  System.out.println("Hello World");
+System je klasa koja vec postoji u nekom paketu u javi
+out je objekat te klase
+println je metoda koja ima jedan argument tipa string
+NAredba System.out.println("Hello World"); stampa tekst na konzoli(terminalu)
+
+
+
+
+
+

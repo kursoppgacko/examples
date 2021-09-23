@@ -1,0 +1,11 @@
+Konsola ili terminal je alat koji nam obokucava da izvrsavamo komande na racunaru
+Pokrece se tako sto u search-u kucate console ili terminal.
+Sve aplikacije koje nemaju UI (USER INTERFACE) tj. visuelni prikaz poput prozora, dugmica, tabova itd. nazivaju
+se konzolne aplikacije.
+Sve aplikacije u ovome kursu bice konzolne aplikacije tj. mi cemo da reagujemo sa programom preko konzole
+
+Kada smo pravili Hello World aplikaciju birali smo da one bude konzolna aplikacija od mnogih ponudjenih opcija.
+
+Na linkovima ispod mozete se informisati o osnovnim komandama:
+Mas: https://ss64.com/osx/
+Windows: https://ss64.com/ps/

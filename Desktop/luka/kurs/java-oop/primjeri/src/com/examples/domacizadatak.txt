@@ -1,0 +1,13 @@
+1. Napraviti konzolnu paplikaciju koji ima jednu klasu i main metodu u
+ kojoj se na konzoli ispisuju vazi licni podaci: ime, prezime, adresa stanovanja i email.
+- obratiti paznju na korake kada se pravi java konzolna aplikacija!
+-obratiti paznju kada se daje ime klase, paketa i lokacija projekta
+-pazljivo procitati main.txt file i na ovom primjer pokusati razjasniti navedene stavke
+
+2. Prouciti konzoli i osnovne komande
+
+2. Prouciti osnovne komande intellija-a
+
+Za sve nejasnoce prilikom obavljanja zadatka potraziti pomoc na internetu ili od kolega!
+Neko je ovo i prije vas prvi put radio i sigurno postoji pisani trag o tome na internetu.
+Sva nejasna pitanja zapisite pa cemo ih zajedno prodiskutovati.
